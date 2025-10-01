@@ -2,5 +2,5 @@
 #
 #
 #EXTINF:-1 tvg-id="Channel 3HD.th" group-title="หนัง" tvg-logo="https://xn--m3caztad1ecc6e8fe9g7bk.com/wp-content/uploads/2001/11/Harry-Potter-season-1.jpg", Harry Potter1 and the Philosopher's Stone แฮร์รี่ พอตเตอร์ กับศิลาอาถรรพ์ (2001)
-https://nnnk2.com/play/49fce3d10a05f682fb3866543f074bca/master.m3u8
-
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2500000,RESOLUTION=1280x720,CODECS="avc1.64001e,mp4a.40.2",AUDIO="audio0"
+https://nnnk2.com/files/49fce3d10a05f682fb3866543f074bca/720/index
