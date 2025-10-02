@@ -36,6 +36,15 @@ https://nnnk2.com/hls/947c7d467027860d32878fbf83b76836/master.m3u8
 https://nnnk2.com/hls/93a07197bfdf6e86793e4f913b932fba/master.m3u8
 
 
+###The Terminal List###
+
+
+
+#EXTINF:-1 tvg-id="EP 1" group-title="The Terminal List" tvg-logo="https://www.9nung.com/wp-content/uploads/2025/08/alv68jhd6I5Aqvn5jv79u0et7Tw.jpg", The Terminal List EP.1
+https://asset.fembed.co/master/th/tkwnkpxriezatrw.m3u8
+
+
+
 
 
 ### DigitalTV 1 ###
@@ -1554,6 +1563,7 @@ http://radio11.plathong.net:8896/;stream.mp3
 https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v22344
 #EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/246pd75kpjkt.png",ช่อง Big FM
 https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v22354
+
 
 
 
