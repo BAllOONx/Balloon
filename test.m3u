@@ -1,8 +1,9 @@
 #EXTM3U
 #
 #
-#EXTINF:-1 tvg-id="P1" group-title="หนัง" tvg-logo="https://bbk100.xyz/media/cache/strip/202404/movie/e5e99b2c96ed3dece69636474422357f.jpg", Game of thrones Season 1 พากย์ไทย
-https://ezmovie4k.com/cdn/hls/57f1a1418e3650e83f0d6b964652979c/master.m3u8
+#EXTINF:-1 tvg-id="P 1" group-title="หนัง" tvg-logo="https://bbk100.xyz/media/cache/strip/202404/movie/e5e99b2c96ed3dece69636474422357f.jpg", Game of thrones Season 1 พากย์ไทย
+https://ezmovie4k.com/cdn/hls/57f1a1418e3650e83f0d6b964652979c/master.m3u8?md5=5BYstvnQ8uLJ3KDHrn2tzA&expires=1759381032
+
 
 
 
