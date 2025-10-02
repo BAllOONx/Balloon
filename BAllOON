@@ -40,8 +40,21 @@ https://nnnk2.com/hls/93a07197bfdf6e86793e4f913b932fba/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="EP 1" group-title="The Terminal List" tvg-logo="https://www.9nung.com/wp-content/uploads/2025/08/alv68jhd6I5Aqvn5jv79u0et7Tw.jpg", The Terminal List EP.1
+#EXTINF:-1 tvg-id="EP 1" group-title="The Terminal List" tvg-logo="https://www.9nung.com/wp-content/uploads/2025/08/alv68jhd6I5Aqvn5jv79u0et7Tw.jpg", EP.1 The Terminal List
 https://asset.fembed.co/master/th/tkwnkpxriezatrw.m3u8
+#EXTINF:-1 tvg-id="EP 2" group-title="The Terminal List" tvg-logo="https://image.tmdb.org/t/p/w300/orI29i5mDUgQ95MZIhvprt1VYv7.jpg", EP.2 The Terminal List
+https://asset.fembed.co/index/9alr21zk5a.m3u8
+#EXTINF:-1 tvg-id="EP 3" group-title="The Terminal List" tvg-logo="https://image.tmdb.org/t/p/w300/748hbs7OwEsCCFQ6DawihDHyQdN.jpg", EP.3 The Terminal List
+https://asset.fembed.co/master/th/hskiumahdkroejr.m3u8
+#EXTINF:-1 tvg-id="EP 4" group-title="The Terminal List" tvg-logo="https://www.9nung.com/wp-content/uploads/2025/08/7pBuDeNvSJdwS7O9DSZlJ1HXzt8.jpg", EP.4 The Terminal List
+https://asset.fembed.co/index/glksqmrtva.m3u8
+#EXTINF:-1 tvg-id="EP 5" group-title="The Terminal List" tvg-logo="
+https://image.tmdb.org/t/p/w300/1zSeRX4MH4pFuBLgZmoob6RvniH.jpg", EP.5 The Terminal List
+https://asset.fembed.co/master/th/vdziuzoyjkipkvl.m3u8
+#EXTINF:-1 tvg-id="EP 6" group-title="The Terminal List" tvg-logo="https://www.9nung.com/wp-content/uploads/2025/08/2QNqrV5zNqzvhPhF61ZoO86j9pn.jpg", EP.6 The Terminal List
+
+#EXTINF:-1 tvg-id="EP 7" group-title="The Terminal List" tvg-logo="https://www.9nung.com/wp-content/uploads/2025/08/p88wQia1SYh4f0078Pt0nzQIQuW.jpg", EP.7 The Terminal List
+https://asset.fembed.co/index/zmmjd99li8.m3u8
 
 
 
@@ -1563,6 +1576,7 @@ http://radio11.plathong.net:8896/;stream.mp3
 https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v22344
 #EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/246pd75kpjkt.png",ช่อง Big FM
 https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v22354
+
 
 
 
