@@ -2,7 +2,8 @@
 #
 #
 #EXTINF:-1 tvg-id="1" group-title="หนัง" tvg-logo="https://xn--m3caztad1ecc6e8fe9g7bk.com/wp-content/uploads/2001/11/Harry-Potter-season-1.jpg",Harry Potter 1 and the Philosopher's Stone แฮร์รี่ พอตเตอร์ กับศิลาอาถรรพ์ (2001) 
-groups-title="game of" tvg-name="Harry Potter" tvg-url="https://ezmovie4k.com/cdn/hls/57f1a1418e3650e83f0d6b964652979c/master.m3u8?md5=5BYstvnQ8uLJ3KDHrn2tzA&expires=1759381032"
+#EXTINF: group-title="game of" tvg-name="Harry Potter" tvg-url="https://ezmovie4k.com/cdn/hls/57f1a1418e3650e83f0d6b964652979c/master.m3u8?md5=5BYstvnQ8uLJ3KDHrn2tzA&expires=1759381032"
+
 
 
 
