@@ -3,3 +3,6 @@
 #
 #EXTINF:-1 tvg-id="P1" group-title="หนัง" tvg-logo="https://bbk100.xyz/media/cache/strip/202505/movie/435e359fb92d26b5899aa61bd229a428.webp", The Accountant 1
 https://ezmovie4k.com/cdn/hls/8ac97c94e03eb960d0c3dec5a0a15379/master.m3u8
+
+#EXTINF:-1 tvg-id="P2" group-title="หนัง" tvg-logo="https://bbk100.xyz/media/cache/strip/202506/movie/cca9a5e0484b2c1ef7b5df0a6746d32c.webp", The Accountant 2
+https://vod1.stream25.com/The-Accountant-2-2025-TH.mp4.m3u8
