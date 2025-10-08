@@ -12,7 +12,7 @@
 
 
 
-#EXTINF:-1 tvg-id="B1" group-title="ดูบอลสด" tvg-logo="https://i.pinimg.com/originals/ad/51/4f/ad514f4cf9a4656cd9781480c1128d67.gif", Loading
+#EXTINF:-1 tvg-id="B1" group-title="ดูบอลสด" tvg-logo="https://i.pinimg.com/originals/ad/51/4f/ad514f4cf9a4656cd9781480c1128d67.gif",  
 https://i.pinimg.com/originals/ad/51/4f/ad514f4cf9a4656cd9781480c1128d67.gif
 
 
@@ -1568,6 +1568,7 @@ http://radio11.plathong.net:8896/;stream.mp3
 https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v22344
 #EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/246pd75kpjkt.png",ช่อง Big FM
 https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v22354
+
 
 
 
