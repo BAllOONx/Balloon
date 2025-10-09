@@ -13,7 +13,9 @@
 
 
 #EXTINF:-1 tvg-id="B1" group-title="ดูบอลสด" tvg-logo="https://medias.thansettakij.com/uploads/images/contents/w1024/2025/10/GKPpRhvkki6Vvc0YufZv.webp?x-image-process=style/lg-webp", ไทย VS ไต้หวัน
-https://lb1-live-mv.v2h-cdn.com/hls/ffaf/wmpiy/wmpiy.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 
 
 
@@ -1568,6 +1570,7 @@ http://radio11.plathong.net:8896/;stream.mp3
 https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v22344
 #EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/246pd75kpjkt.png",ช่อง Big FM
 https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v22354
+
 
 
 
