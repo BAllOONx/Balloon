@@ -12,7 +12,7 @@
 
 
 
-#EXTINF:-1 tvg-id="B1" group-title="ดูบอลสด" tvg-logo="https://medias.thansettakij.com/uploads/images/contents/w1024/2025/10/GKPpRhvkki6Vvc0YufZv.webp?x-image-process=style/lg-webp", ไทย VS ไต้หวัน
+#EXTINF:-1 tvg-id="B1" group-title="ดูบอลสด" tvg-logo= 19.30 ,"https://medias.thansettakij.com/uploads/images/contents/w1024/2025/10/GKPpRhvkki6Vvc0YufZv.webp?x-image-process=style/lg-webp", ไทย VS ไต้หวัน
 https://dkl-o53d.cdn.akamaiz.com/dooballsod99/thairathtv/chunks.m3u8?nimblesessionid=1071133&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOS8yMDI1IDI6NDg6MjUgQU0maGFzaF92YWx1ZT1veEFIdTZYT1JnZkxTWGZMSk12VGl3PT0mdmFsaWRtaW51dGVzPTIw
 
 
@@ -1568,6 +1568,7 @@ http://radio11.plathong.net:8896/;stream.mp3
 https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v22344
 #EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/246pd75kpjkt.png",ช่อง Big FM
 https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v22354
+
 
 
 
