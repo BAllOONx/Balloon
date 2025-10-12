@@ -155,7 +155,7 @@ https://edge2a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://i.postimg.cc/q7FXrdNm/TS.jpg",T Sports 7
 https://lb1-live-mv.v2h-cdn.com/hls/ffef/mulxvnghf/mulxvnghf.m3u8
 
-#EXTINF:-1 tvg-id="Mono29.th" group-title="Digital TV 1" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png", MONO29 (หนังพากย์ไทย)
+#EXTINF:-1 tvg-id="Mono29.th" group-title="Digital TV" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png", MONO29 (หนังพากย์ไทย)
 https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
 
 
@@ -1403,6 +1403,7 @@ http://radio11.plathong.net:8896/;stream.mp3
 https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v22344
 #EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/246pd75kpjkt.png",ช่อง Big FM
 https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v22354
+
 
 
 
