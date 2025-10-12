@@ -1,25 +1,23 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Monomax 1" group-title="LIVE SOD" tvg-logo="https://img2.pic.in.th/pic/13458.md.jpg",1
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomaxs3-1.m3u8
+#EXTINF:-1 tvg-id="EP 1" group-title="Gen V season 2" tvg-logo="https://www.seriesday-hd.com/wp-content/uploads/2025/09/Gen-V-Season-2-2025-187x269.jpg",EP.1
+https://ok-nah.com/hls/f5d15ae3b1234555af7f44a15050f117/master.m3u8
 
-#EXTINF:-1 tvg-id="Monomax 2" group-title="LIVE SOD" tvg-logo="https://img5.pic.in.th/file/secure-sv1/13456dcf1644cfa7dd502.md.jpg",2
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax2.m3u8
+#EXTINF:-1 tvg-id="EP 2" group-title="Gen V season 2" tvg-logo="https://www.seriesday-hd.com/wp-content/uploads/2025/09/Gen-V-Season-2-2025-187x269.jpg",EP.2
+https://ok-nah.com/hls/6ea42f5e6beb58ec2b9edc5e9d546651/master.m3u8
 
-#EXTINF:-1 tvg-id="Monomax 3" group-title="LIVE SOD"  tvg-logo="https://img2.pic.in.th/pic/13454.md.jpg",3
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax3.m3u8
+#EXTINF:-1 tvg-id="EP 3" group-title="Gen V season 2"  tvg-logo="https://www.seriesday-hd.com/wp-content/uploads/2025/09/Gen-V-Season-2-2025-187x269.jpg",EP.3
+https://ok-nah.com/hls/321931ba4500e00ef4b2b98d71d9ad29/master.m3u8
 
-#EXTINF:-1 tvg-id="Monomax 4" group-title="LIVE SOD"  tvg-logo="https://img5.pic.in.th/file/secure-sv1/13450.md.jpg",4
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax4.m3u8
+#EXTINF:-1 tvg-id="EP 4" group-title="Gen V season 2"  tvg-logo="https://www.seriesday-hd.com/wp-content/uploads/2025/09/Gen-V-Season-2-2025-187x269.jpg",EP.4
+https://ok-nah.com/hls/5d3e73d4e8ce51cc98c373cefaecdf2f/master.m3u8
 
-#EXTINF:-1 tvg-id="Monomax 5" group-title="LIVE SOD"  tvg-logo="https://img2.pic.in.th/pic/13446.md.jpg",5
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax5.m3u8
+#EXTINF:-1 tvg-id="EP 5" group-title="Gen V season 2"  tvg-logo="https://www.seriesday-hd.com/wp-content/uploads/2025/09/Gen-V-Season-2-2025-187x269.jpg",EP.5
+https://ok-nah.com/hls/a648e502c8d74aa18ad60be2b9d157eb/master.m3u8
 
-#EXTINF:-1 tvg-id="Monomax 6" group-title="LIVE SOD"  tvg-logo="https://img5.pic.in.th/file/secure-sv1/13452.md.jpg",6
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax6.m3u8
+#EXTINF:-1 tvg-id="EP 6" group-title="Gen V season 2"  tvg-logo="https://www.seriesday-hd.com/wp-content/uploads/2025/09/Gen-V-Season-2-2025-187x269.jpg",EP.6
+https://ok-nah.com/hls/e22bd12ca21ff792419c68abae1400f6/master.m3u8
 
-#EXTINF:-1 tvg-id="Monomax 7" group-title="LIVE SOD"  tvg-logo="https://img2.pic.in.th/pic/13448.md.jpg",7
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax7.m3u8
 
 
 
