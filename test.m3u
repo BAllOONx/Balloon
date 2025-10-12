@@ -1,25 +1,26 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Monomax 1" group-title="LIVE SOD" tvg-logo="https://img2.pic.in.th/pic/13458.md.jpg",      
+#EXTINF:-1 tvg-id="Monomax 1" group-title="LIVE SOD" tvg-logo="https://img2.pic.in.th/pic/13458.md.jpg",1
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomaxs3-1.m3u8
 
-#EXTINF:-1 tvg-id="Monomax 2" group-title="LIVE SOD" tvg-logo="https://img5.pic.in.th/file/secure-sv1/13456dcf1644cfa7dd502.md.jpg",      
+#EXTINF:-1 tvg-id="Monomax 2" group-title="LIVE SOD" tvg-logo="https://img5.pic.in.th/file/secure-sv1/13456dcf1644cfa7dd502.md.jpg",2
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax2.m3u8
 
-#EXTINF:-1 tvg-id="Monomax 3" group-title="LIVE SOD"  tvg-logo="https://img2.pic.in.th/pic/13454.md.jpg",     
+#EXTINF:-1 tvg-id="Monomax 3" group-title="LIVE SOD"  tvg-logo="https://img2.pic.in.th/pic/13454.md.jpg",3
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax3.m3u8
 
-#EXTINF:-1 tvg-id="Monomax 4" group-title="LIVE SOD"  tvg-logo="https://img5.pic.in.th/file/secure-sv1/13450.md.jpg",     
+#EXTINF:-1 tvg-id="Monomax 4" group-title="LIVE SOD"  tvg-logo="https://img5.pic.in.th/file/secure-sv1/13450.md.jpg",4
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax4.m3u8
 
-#EXTINF:-1 tvg-id="Monomax 5" group-title="LIVE SOD"  tvg-logo="https://img2.pic.in.th/pic/13446.md.jpg",     
+#EXTINF:-1 tvg-id="Monomax 5" group-title="LIVE SOD"  tvg-logo="https://img2.pic.in.th/pic/13446.md.jpg",5
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax5.m3u8
 
-#EXTINF:-1 tvg-id="Monomax 6" group-title="LIVE SOD"  tvg-logo="https://img5.pic.in.th/file/secure-sv1/13452.md.jpg",      
+#EXTINF:-1 tvg-id="Monomax 6" group-title="LIVE SOD"  tvg-logo="https://img5.pic.in.th/file/secure-sv1/13452.md.jpg",6
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax6.m3u8
 
-#EXTINF:-1 tvg-id="Monomax 7" group-title="LIVE SOD"  tvg-logo="https://img2.pic.in.th/pic/13448.md.jpg",         
+#EXTINF:-1 tvg-id="Monomax 7" group-title="LIVE SOD"  tvg-logo="https://img2.pic.in.th/pic/13448.md.jpg",7
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax7.m3u8
+
 
 
 
