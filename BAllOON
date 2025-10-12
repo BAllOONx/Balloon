@@ -5,31 +5,6 @@
 # BY BAllOON
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.nungdeedee.com/assets/images/poster/a/compressed/202510/43636aRRAOlf6Od5Eu7qxKFi1Uim0TvuesMbu.jpg.webp" group-title="Nero the Assassin",EP.1 กาลครั้งหนึ่งของนักฆ่า
-https://ok-nah.com/hls/e2b76695d10ebd224304f4fcfcad16d6/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.nungdeedee.com/assets/images/poster/a/compressed/202510/43636aRRAOlf6Od5Eu7qxKFi1Uim0TvuesMbu.jpg.webp" group-title="Nero the Assassin",EP.2 กาลครั้งหนึ่งของนักฆ่า
-https://ok-nah.com/hls/c8cf3a6b25017d0e8c8e6718eead3940/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.nungdeedee.com/assets/images/poster/a/compressed/202510/43636aRRAOlf6Od5Eu7qxKFi1Uim0TvuesMbu.jpg.webp" group-title="Nero the Assassin",EP.3 กาลครั้งหนึ่งของนักฆ่า
-https://ok-nah.com/hls/b260c84ce74d016f71139f53e4fbe640/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.nungdeedee.com/assets/images/poster/a/compressed/202510/43636aRRAOlf6Od5Eu7qxKFi1Uim0TvuesMbu.jpg.webp" group-title="Nero the Assassin",EP.4 กาลครั้งหนึ่งของนักฆ่า
-https://ok-nah.com/hls/b725513fdfaa4eb5bfd9923026cb3946/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.nungdeedee.com/assets/images/poster/a/compressed/202510/43636aRRAOlf6Od5Eu7qxKFi1Uim0TvuesMbu.jpg.webp" group-title="Nero the Assassin",EP.5 กาลครั้งหนึ่งของนักฆ่า
-https://ok-nah.com/hls/e67840cc1375b9fd17cafaf3fbd025d8/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.nungdeedee.com/assets/images/poster/a/compressed/202510/43636aRRAOlf6Od5Eu7qxKFi1Uim0TvuesMbu.jpg.webp" group-title="Nero the Assassin",EP.6 กาลครั้งหนึ่งของนักฆ่า
-https://ok-nah.com/hls/40a8d593d0fa7f7f1dd0a8e833570dfd/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.nungdeedee.com/assets/images/poster/a/compressed/202510/43636aRRAOlf6Od5Eu7qxKFi1Uim0TvuesMbu.jpg.webp" group-title="Nero the Assassin",EP.7 กาลครั้งหนึ่งของนักฆ่า
-https://ok-nah.com/hls/8827ec6f0f639244343bb09aefa5990d/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.nungdeedee.com/assets/images/poster/a/compressed/202510/43636aRRAOlf6Od5Eu7qxKFi1Uim0TvuesMbu.jpg.webp" group-title="Nero the Assassin",EP.8 กาลครั้งหนึ่งของนักฆ่า
-https://ok-nah.com/hls/9a3a3ac0e6c1ec81457419069c476be4/master.m3u8
-
-
 
 
 ###Movie Harry Potter###
@@ -259,51 +234,6 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/30/30.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca20a93cf8e3421dafbd5bdb1990081b:86ae86a7391c481ea93eecdb740f0a14
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/2/2.mpd
-
-#EXTINF:-1 tvg-id="DLTV 1" tvg-name="DLTV 1" tvg-logo="https://i.imgur.com/nLzdGeX.png" group-title="Digital TV 2", 31 DLTV 1
-https://cdn-live.dltv.ac.th/dltv01.m3u8
-
-#EXTINF:-1 tvg-id="DLTV 2" tvg-name="DLTV 2" tvg-logo="https://i.imgur.com/lDBSTfE.png" group-title="Digital TV 2", 32 DLTV 2
-https://cdn-live.dltv.ac.th/dltv02.m3u8
-
-#EXTINF:-1 tvg-id="DLTV 3" tvg-name="DLTV 3" tvg-logo="https://i.imgur.com/wmrxerm.png" group-title="Digital TV 2", 33 DLTV 3
-https://cdn-live.dltv.ac.th/dltv03.m3u8
-
-#EXTINF:-1 tvg-id="DLTV 4" tvg-name="DLTV 4" tvg-logo="https://i.imgur.com/WkpoQhU.png" group-title="Digital TV 2", 34 DLTV 4
-https://cdn-live.dltv.ac.th/dltv04.m3u8
-
-#EXTINF:-1 tvg-id="DLTV 5" tvg-name="DLTV 5" tvg-logo="https://i.imgur.com/J1E89jX.png" group-title="Digital TV 2", 35 DLTV 5
-https://cdn-live.dltv.ac.th/dltv05.m3u8
-
-#EXTINF:-1 tvg-id="DLTV 6" tvg-name="DLTV 6" tvg-logo="https://i.imgur.com/qeIHWC0.png" group-title="Digital TV 2", 36 DLTV 6
-https://cdn-live.dltv.ac.th/dltv06.m3u8
-
-#EXTINF:-1 tvg-id="DLTV 7" tvg-name="DLTV 7" tvg-logo="https://i.imgur.com/OjYwMe3.png" group-title="Digital TV 2", 37 DLTV 7
-https://cdn-live.dltv.ac.th/dltv07.m3u8
-
-#EXTINF:-1 tvg-id="DLTV 8" tvg-name="DLTV 8" tvg-logo="https://i.imgur.com/xIwn5Ha.png" group-title="Digital TV 2", 38 DLTV 8
-https://cdn-live.dltv.ac.th/dltv08.m3u8
-
-#EXTINF:-1 tvg-id="DLTV 9" tvg-name="DLTV 9" tvg-logo="https://i.imgur.com/yPeSAry.png" group-title="Digital TV 2", 39 DLTV 9
-https://cdn-live.dltv.ac.th/dltv09.m3u8
-
-#EXTINF:-1 tvg-id="DLTV 10" tvg-name="DLTV 10" tvg-logo="https://i.imgur.com/TgN81Zr.png" group-title="Digital TV 2", 40 DLTV 10
-https://cdn-live.dltv.ac.th/dltv10.m3u8
-
-#EXTINF:-1 tvg-id="DLTV 11" tvg-name="DLTV 11" tvg-logo="https://i.imgur.com/hFk2b5s.png" group-title="Digital TV 2", 41 DLTV 11
-https://cdn-live.dltv.ac.th/dltv11.m3u8
-
-#EXTINF:-1 tvg-id="DLTV 12" tvg-name="DLTV 12" tvg-logo="https://i.imgur.com/ITt6lY7.png" group-title="Digital TV 2", 42 DLTV 12
-https://cdn-live.dltv.ac.th/dltv12.m3u8
-
-#EXTINF:-1 tvg-id="DLTV 13" tvg-name="DLTV 13" tvg-logo="https://i.imgur.com/asB5w3v.png" group-title="Digital TV 2", 43 DLTV 13
-https://cdn-live.dltv.ac.th/dltv13.m3u8
-
-#EXTINF:-1 tvg-id="DLTV 14" tvg-name="DLTV 14" tvg-logo="https://i.imgur.com/HOjZRNS.png" group-title="Digital TV 2", 44 DLTV 14
-https://cdn-live.dltv.ac.th/dltv14.m3u8
-
-#EXTINF:-1 tvg-id="DLTV 15" tvg-name="DLTV 15" tvg-logo="https://i.imgur.com/onJi2b6.png" group-title="Digital TV 2", 45 DLTV 15
-https://cdn-live.dltv.ac.th/dltv15.m3u8
 
 
 
@@ -1574,6 +1504,7 @@ http://radio11.plathong.net:8896/;stream.mp3
 https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v22344
 #EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/246pd75kpjkt.png",ช่อง Big FM
 https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v22354
+
 
 
 
