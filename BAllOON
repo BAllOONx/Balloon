@@ -166,7 +166,7 @@ https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/PL_Mono1.jpg" group-title="MONOMAX 1",MONOMAX1
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax1.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomaxs3-1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/PL_Mono1.jpg" group-title="MONOMAX 1",MONOMAX1
 http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186563&extension=ts
@@ -466,7 +466,7 @@ https://cdn1.googlecdnforstreaming.live/live/spotv2/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/PL_Mono1.jpg" group-title="MONOMAX 2",MONOMAX1
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax1.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomaxs3-1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/PL_Mono1.jpg" group-title="MONOMAX 2",MONOMAX1
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186561&extension=ts
@@ -1385,6 +1385,7 @@ http://radio11.plathong.net:8896/;stream.mp3
 https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v22344
 #EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/246pd75kpjkt.png",ช่อง Big FM
 https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v22354
+
 
 
 
