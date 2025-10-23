@@ -108,7 +108,7 @@ https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
 
 
 
-###MONOMAX###
+### MONOMAX ###
 
 
 
@@ -200,7 +200,7 @@ https://e110.youllneverwalkalone.online/v5/1Nu7lZa9oEMnYthuVkqH5g/1760841388/390
 #EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax09bkp.png",Monomax 9-bk
 #EXTVLCOPT:http-referrer=https://embed.makeitso.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://e110.youllneverwalkalone.online/v5/100DobE7YezPekWlFZTP-w/1761185564/daec35ac1ad92d3aba1447638ee18aee/XdpeM66zdWPH80nneLgWZQ/1761196244/live/lx-origin/th-monomax09_720/chunks.m3u8
+https://e110.youllneverwalkalone.online/v5/92fI-80KusKGqwXJXBApfg/1761185933/daec35ac1ad92d3aba1447638ee18aee/wBm60tvwN9hH5kb498RwxA/1761196613/live/lx-origin/th-monomax09bkp_720/chunks.m3u8
 
 #EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax10.png",Monomax 10
 #EXTVLCOPT:http-referrer=https://embed.makeitso.online/
@@ -210,7 +210,7 @@ https://e110.youllneverwalkalone.online/v5/l-iSgIOlTMfMn4-RlZkZHQ/1760841483/519
 #EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax10bkp.png",Monomax 10-bk
 #EXTVLCOPT:http-referrer=https://embed.makeitso.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://e110.youllneverwalkalone.online/v5/NroGmWchnTj2ty2ZN0xU8w/1761185631/daec35ac1ad92d3aba1447638ee18aee/uWdZD3voDAiJVUVeLVrDyw/1761196311/live/lx-origin/th-monomax10_720/chunks.m3u8
+https://e110.youllneverwalkalone.online/v5/PjyWD2O_Ka7e6WQxftdYzA/1761185989/19de5e42c1296b356331027ab734a271/CTLLhmZPM5-UyDZquhrOfA/1761196669/live/lx-origin/th-monomax10bkp_720/chunks.m3u8
 
 #EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax11.png",Monomax 11
 #EXTVLCOPT:http-referrer=https://embed.makeitso.online/
@@ -1096,6 +1096,7 @@ http://radio11.plathong.net:8896/;stream.mp3
 https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v22344
 #EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/246pd75kpjkt.png",ช่อง Big FM
 https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v22354
+
 
 
 
