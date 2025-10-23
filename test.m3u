@@ -1,33 +1,36 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="EP 1" group-title="Gen V season 2" tvg-logo="https://www.seriesday-hd.com/wp-content/uploads/2025/09/Gen-V-Season-2-2025-187x269.jpg",EP.1
-https://ok-nah.com/hls/f5d15ae3b1234555af7f44a15050f117/master.m3u8
-
-#EXTINF:-1 tvg-id="EP 2" group-title="Gen V season 2" tvg-logo="https://www.seriesday-hd.com/wp-content/uploads/2025/09/Gen-V-Season-2-2025-187x269.jpg",EP.2
-https://ok-nah.com/hls/6ea42f5e6beb58ec2b9edc5e9d546651/master.m3u8
-
-#EXTINF:-1 tvg-id="EP 3" group-title="Gen V season 2"  tvg-logo="https://www.seriesday-hd.com/wp-content/uploads/2025/09/Gen-V-Season-2-2025-187x269.jpg",EP.3
-https://ok-nah.com/hls/321931ba4500e00ef4b2b98d71d9ad29/master.m3u8
-
-#EXTINF:-1 tvg-id="EP 4" group-title="Gen V season 2"  tvg-logo="https://www.seriesday-hd.com/wp-content/uploads/2025/09/Gen-V-Season-2-2025-187x269.jpg",EP.4
-https://ok-nah.com/hls/5d3e73d4e8ce51cc98c373cefaecdf2f/master.m3u8
-
-#EXTINF:-1 tvg-id="EP 5" group-title="Gen V season 2"  tvg-logo="https://www.seriesday-hd.com/wp-content/uploads/2025/09/Gen-V-Season-2-2025-187x269.jpg",EP.5
-https://ok-nah.com/hls/a648e502c8d74aa18ad60be2b9d157eb/master.m3u8
-
-#EXTINF:-1 tvg-id="EP 6" group-title="Gen V season 2"  tvg-logo="https://www.seriesday-hd.com/wp-content/uploads/2025/09/Gen-V-Season-2-2025-187x269.jpg",EP.6
-https://ok-nah.com/hls/e22bd12ca21ff792419c68abae1400f6/master.m3u8
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/hub-1.png" group-title="กีฬา",Hub Premier 1
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112231
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/hub-2.png" group-title="กีฬา",HUB PREMIER 2
+http://trendystream.me:80/play/live.php?mac=00:1A:79:0D:A1:24&stream=1903776&extension=ts
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/hub-2.png" group-title="กีฬา",Hub Premier 2
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112229
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/hub-2.png" group-title="กีฬา",Hub Premier 2 4K
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112230
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/hub-3.png" group-title="กีฬา",Hub Premier 3
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112228
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/hub-4.png" group-title="กีฬา",Hub Premier 4
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112227
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/hub-5.png" group-title="กีฬา",Hub Premier 5
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112226
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l2dzMGa.png" group-title="กีฬา",Now HK Premier Sports 1
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112200
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yVCWN1c.png" group-title="กีฬา",Now HK Premier Sports 2
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112194
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oxakZgk.png" group-title="กีฬา",Now HK Premier Sports 3
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112199
+#EXTINF:-1 tvg-logo="https://i.imgur.com/evqQoh9.png" group-title="กีฬา",Now HK Premier Sports 4
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112198
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eAsPUx2.png" group-title="กีฬา",Now HK Premier Sports 5
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112197
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q2GQzb9.png" group-title="กีฬา",Now HK Premier Sports 6
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112196
 
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D0GgEQR.png" group-title="กีฬา",Now Sports 1 HK
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/118746
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1R5HQUJ.png" group-title="กีฬา",Now Sports 2 HK
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/118745
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kgo9uwH.png" group-title="กีฬา",Now Sports 3 HK
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/118744
