@@ -1,9 +1,10 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="SKY Sport" tvg-logo="https://api.makeitso.online/images/png/nz-skysport1.png",SKY Sport 1
+#EXTINF:-1 group-title="SKY Sport" tvg-logo="https://api.makeitso.online/images/png/nz-skysport1.png",SKY Sport 2
 #EXTVLCOPT:http-referrer=https://embed.makeitso.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://dreamt-upstart.youllneverwalkalone.online/v5/S2nyIyvAVmrD5lGouKh4wA/1761212503/7c770e3ae103f86297b1265f0fea36b4/0bcMbbgj1o-mFunleH8mGQ/1761223183/live/vx-origin/nz-skysport1_720/chunks.m3u8
+https://e110.youllneverwalkalone.online/v5/kuU9LckFl9H9yUhKrWktNg/1761213368/7c770e3ae103f86297b1265f0fea36b4/uOo6ZOcIaZ_F4taQMY46_A/1761224048/live/vx-origin/nz-skysport2_720/chunks.m3u8
+
 
 
