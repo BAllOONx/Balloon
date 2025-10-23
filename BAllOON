@@ -118,7 +118,7 @@ https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
 https://e110.youllneverwalkalone.online/v5/jVHQqhmJOA4pcLGnztJL_A/1760840709/5197647dc6fc71ea3d5de567c0985a00/YwOY3qHzDYKU638GyhiZKA/1760851389/live/lx-origin/th-monomax01_720/playlist.m3u8
 
 #EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax01bkp.png",Monomax 1-bk
-#EXTVLCOPT:http-referrer=https://livesod365.club/live/
+#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://e110.youllneverwalkalone.online/v5/uUPFT9u-5wvo_f_8UuKLCg/1761181304/daec35ac1ad92d3aba1447638ee18aee/twJ3ZM516Cr7X0DNiRh2bQ/1761191984/live/lx-origin/th-monomax01bkp_720/chunks.m3u8
 
@@ -138,7 +138,7 @@ https://la4.youllneverwalkalone.online:9310/v5/v42ywsTYZOnZdCvK0i-1jA/1760501677
 https://e110.youllneverwalkalone.online/v5/zaJL26WqBddorziPOsCj-w/1760840852/3900b93121619e29864909ed61d1e4d9/TQj-sbAAmVyabJubCCdQrQ/1760851532/live/lx-origin/th-monomax03_720/playlist.m3u8
 
 #EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax03bkp.png",Monomax 3-bk
-#EXTVLCOPT:http-referrer=https://livesod365.club/live/
+#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://e110.youllneverwalkalone.online/v5/nFswNsMmU5B8ncjx_5Hkzw/1761184661/19de5e42c1296b356331027ab734a271/F9-UKRVxGz3B_I-_fUmNuw/1761195341/live/lx-origin/th-monomax03bkp_720/chunks.m3u8
 
@@ -148,7 +148,7 @@ https://e110.youllneverwalkalone.online/v5/nFswNsMmU5B8ncjx_5Hkzw/1761184661/19d
 https://e110.youllneverwalkalone.online/v5/4_Co-f3P4WyNaHV2PMEtrg/1760840959/5197647dc6fc71ea3d5de567c0985a00/ou88TxIcevbz_h3TfoQ3-A/1760851639/live/lx-origin/th-monomax04_720/playlist.m3u8
 
 #EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax04bkp.png",Monomax 4-bk
-#EXTVLCOPT:http-referrer=https://livesod365.club/live/
+#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://e110.youllneverwalkalone.online/v5/0X4DgN-CXO0CbQHC-USN0g/1761184905/daec35ac1ad92d3aba1447638ee18aee/UYyMVwKu9QhYhauRSm4UQg/1761195585/live/lx-origin/th-monomax04bkp_720/chunks.m3u8
 
@@ -158,7 +158,7 @@ https://e110.youllneverwalkalone.online/v5/0X4DgN-CXO0CbQHC-USN0g/1761184905/dae
 https://e110.youllneverwalkalone.online/v5/pezezQU-dZ1dKjY2sSsyhw/1760841053/3900b93121619e29864909ed61d1e4d9/DPIIKqjWSg8Q6EN37Ddduw/1760851733/live/lx-origin/th-monomax05_720/playlist.m3u8
 
 #EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax05bkp.png",Monomax 5-bk
-#EXTVLCOPT:http-referrer=https://livesod365.club/live/
+#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://e110.youllneverwalkalone.online/v5/xWRpvOpRKN55DGnb1stQww/1761185020/19de5e42c1296b356331027ab734a271/4yQLu4LuPeyBLgLzSucLDw/1761195700/live/lx-origin/th-monomax05bkp_720/chunks.m3u8
 
@@ -856,6 +856,7 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=78636&extension=t
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=78637&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nl-ziggosport6.png" group-title="ช่องกีฬาต่างประทศ",Ziggosport6
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=78638&extension=ts
+
 
 
 
