@@ -118,9 +118,9 @@ https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
 https://e110.youllneverwalkalone.online/v5/jVHQqhmJOA4pcLGnztJL_A/1760840709/5197647dc6fc71ea3d5de567c0985a00/YwOY3qHzDYKU638GyhiZKA/1760851389/live/lx-origin/th-monomax01_720/playlist.m3u8
 
 #EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax01bkp.png",Monomax 1-bk
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
+#EXTVLCOPT:http-referrer=https://livesod365.club/live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://la4.youllneverwalkalone.online:9310/v5/dC0cIe3jrUbhFAVifrc7gA/1760491607/904de750caef7accf549c8b31b1496c2/7XQq96FxtcQdmLjIg3mjZg/1760502287/live/dx-origin/th-monomax01_720/playlist.m3u8
+https://e110.youllneverwalkalone.online/v5/uUPFT9u-5wvo_f_8UuKLCg/1761181304/daec35ac1ad92d3aba1447638ee18aee/twJ3ZM516Cr7X0DNiRh2bQ/1761191984/live/lx-origin/th-monomax01bkp_720/chunks.m3u8
 
 #EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax02.png",Monomax 2
 #EXTVLCOPT:http-referrer=https://embed.makeitso.online/
@@ -1096,6 +1096,7 @@ http://radio11.plathong.net:8896/;stream.mp3
 https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v22344
 #EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/246pd75kpjkt.png",ช่อง Big FM
 https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v22354
+
 
 
 
