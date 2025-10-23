@@ -217,6 +217,11 @@ https://e110.youllneverwalkalone.online/v5/PjyWD2O_Ka7e6WQxftdYzA/1761185989/19d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://e110.youllneverwalkalone.online/v5/G8NSk6BgU-eua4W-ZlEzSw/1761185671/19de5e42c1296b356331027ab734a271/d-uA8FpW4zCoSc45p6T7UQ/1761196351/live/lx-origin/th-monomax11_720/chunks.m3u8
 
+#EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax11.png",Monomax 11-bk
+#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://e110.youllneverwalkalone.online/v5/Tx69fFTRdxKzPrJKG8PycA/1761186847/7b22c16aaf58ae964ee0e18dd87cc6d8/fRUR0b3e5cFxIUlTozeuBA/1761197527/live/lx-origin/dooball66-max01c_720/chunks.m3u8
+
 
 
 
@@ -1096,6 +1101,7 @@ http://radio11.plathong.net:8896/;stream.mp3
 https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v22344
 #EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/246pd75kpjkt.png",ช่อง Big FM
 https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v22354
+
 
 
 
