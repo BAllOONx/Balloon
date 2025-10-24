@@ -287,6 +287,37 @@ https://e110.youllneverwalkalone.online/v5/wKBP0klnQMLAO1YKsKrVtg/1761274193/d59
 
 
 
+### HUB PREMIER ###
+
+
+
+#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="https://api.makeitso.online/images/png/sg-hubpremier01.png",Hub Premier 1
+#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://e110.youllneverwalkalone.online/v5/ecg3oKB2kTuMfcnAFOmsZA/1761275971/b451afa6268eaf4679d879887116fa87/2JcWLRwhX-rHDPWhQSvgTA/1761286651/live/vx-origin/sg-hubpremier01_480/chunks.m3u8
+
+#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="https://api.makeitso.online/images/png/sg-hubpremier02.png",Hub Premier 2
+#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://e110.youllneverwalkalone.online/v5/FYebzIiRwz-aGMT43Qns6Q/1761276166/d592a4fb3aa6371995d10f439b314eff/SpnryA-sbOyiBDvvpwkuMw/1761286846/live/vx-origin/sg-hubpremier02_720/chunks.m3u8
+
+#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="https://api.makeitso.online/images/png/sg-hubpremier03.png",Hub Premier 3
+#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://e110.youllneverwalkalone.online/v5/76w7EVk4CGHn283NldFQ0w/1761276197/b451afa6268eaf4679d879887116fa87/84dq8DwG4FPcUEEY80egvQ/1761286877/live/vx-origin/sg-hubpremier03_720/chunks.m3u8
+
+#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="https://api.makeitso.online/images/png/sg-hubpremier04.png",Hub Premier 4
+#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://e110.youllneverwalkalone.online/v5/_RXB7zMwrzSNqyE8ajfuQQ/1761276229/d592a4fb3aa6371995d10f439b314eff/ObjWKnb_cgcOFh6os7hxcw/1761286909/live/vx-origin/sg-hubpremier04_720/chunks.m3u8
+
+#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="https://api.makeitso.online/images/png/sg-hubpremier05.png",Hub Premier 5
+#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://e110.youllneverwalkalone.online/v5/UCML1nJd6j-ZLGyf6tdz5Q/1761276289/d592a4fb3aa6371995d10f439b314eff/2qBEx4lsx0Ch8hyfWVoigg/1761286969/live/vx-origin/sg-hubpremier05_720/chunks.m3u8
+
+
+
 
 ### SKY Sport ###
 
@@ -677,6 +708,7 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=78636&extension=t
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=78637&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nl-ziggosport6.png" group-title="ช่องกีฬาต่างประทศ",Ziggosport6
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=78638&extension=ts
+
 
 
 
