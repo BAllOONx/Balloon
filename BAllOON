@@ -59,7 +59,10 @@ https://dklxais.online/dookeela/pptv/chunks.m3u8?nimblesessionid=73496817&wmsAut
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b898bb953httpsm%2Flivetv%2F2019%2F01%2F10%2Fac08e9d4-6e97-478f-9c29-fc8e851a8c89.png&w=100&h=75",Workpoint
+#KODIPROP:inputstream.adaptive.license_key=0b898bb9530b4b0a97e444d1e1f8960e:dab1a7c035d94287ac64417ef809ed3b
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Digital TV"  tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F10%2Fac08e9d4-6e97-478f-9c29-fc8e851a8c89.png&w=100&h=75",Workpoint
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -94,15 +97,10 @@ https://dklxais.online/dookeela/tnn/chunks.m3u8?nimblesessionid=73495932&wmsAuth
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/07/08/e341b740-c0e5-11ea-90d9-278915d663f4_320.png",ThaiPBS
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://58-64-60-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",NBT
-igital TV" tvg-logo="https://i.imgur.com/IJh6SHb.png",NBT HD
-https://edge2a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://i.postimg.cc/q7FXrdNm/TS.jpg",T Sports 7
-https://lb1-live-mv.v2h-cdn.com/hls/ffef/mulxvnghf/mulxvnghf.m3u8
-
-#EXTINF:-1 tvg-id="Mono29.th" group-title="Digital TV" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png", MONO29 (หนังพากย์ไทย)
-https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://58-64-60-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",NBT
+#EXTVLCOPT:http-referrer=https://www.dookeela2.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://dklxais.online/dookeela/nbt2hd/chunks.m3u8?nimblesessionid=73497654&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyNSwgNzo1N
 
 
 
@@ -440,6 +438,7 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL007/HLS/
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL008/HLS/TL008.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=08afa076d6eeec870c46919a18a6738f&chunkHttps=true&tmid=V0048&tpbk=a4BkOaHCE2Fm9EN9&rrt=1755819578&tmod=rfk&rsid=197e7e75-d0d9-4a2f-a949-03637aef7b02&tuid=y0ngRp8wwo03emcFQkGq3YebuVrdgXRHHWRKX%2FvFZhNZUUi85%2BT09Wa01ddbk1LAK9QTLYxWNqIVgz3ZzybbJRY9TcqKK0xen7ulLJP9984AU%3D&cdn=redfox-https&tdid=31903fcff2fbf0e7430c5503db0itahl&origin=anevia&tfa=f0-fc&tttl=1755905949 
+
 
 
 
