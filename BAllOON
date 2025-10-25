@@ -5,9 +5,6 @@
 # BY BAllOON
 
 
-
-
-
 ### DigitalTV 1 ###
 
 
@@ -54,9 +51,9 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_320.png",PPTV HD
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
+#EXTVLCOPT:http-referrer=https://www.dookeela2.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://la4.youllneverwalkalone.online:9309/v5/IEuIggU-cHrsTPW45vezkQ/1761377477/7ab76dd5890b58699442fbd398f3ed99/P7apMYy6N3H
+https://dklxais.online/dookeela/pptv/chunks.m3u8?nimblesessionid=73496817&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyNSwgNzo0NzowMiBBTSZoYXNoX3ZhbHVlPVlhSnlmblpESExFdmhBVW5hUmFad1E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD01ZjM1ZDVmYTI1Mzk4ZmFkY2U2MDNiN2ViNjUxYTYzZSZjaGVja2lwPXRydWUmc3RybV9sZW49MTM=
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F10%2F02ef58a7-a848-485c-abfa-dd3d7a74a8b2.png&w=100&h=75",AmarinTV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -443,6 +440,7 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL007/HLS/
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL008/HLS/TL008.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=08afa076d6eeec870c46919a18a6738f&chunkHttps=true&tmid=V0048&tpbk=a4BkOaHCE2Fm9EN9&rrt=1755819578&tmod=rfk&rsid=197e7e75-d0d9-4a2f-a949-03637aef7b02&tuid=y0ngRp8wwo03emcFQkGq3YebuVrdgXRHHWRKX%2FvFZhNZUUi85%2BT09Wa01ddbk1LAK9QTLYxWNqIVgz3ZzybbJRY9TcqKK0xen7ulLJP9984AU%3D&cdn=redfox-https&tdid=31903fcff2fbf0e7430c5503db0itahl&origin=anevia&tfa=f0-fc&tttl=1755905949 
+
 
 
 
