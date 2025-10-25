@@ -1,9 +1,10 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="TEST" tvg-logo="https://58-64-60-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",WorkpointTV
-#EXTVLCOPT:http-referrer=https://www.dookeela2.live/
+#EXTINF:-1 group-title="TEST" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",TNN
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://dklxais.online/dookeela/nbt2hd/chunks.m3u8?nimblesessionid=73498688&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyNSwgODowNzozNCBBTSZoYXNoX3ZhbHVlPXhTMXJZdkd1Q0JQUUMrVjF0QXE0Z2c9PSZ2YWxpZG1pbnV0ZXM9MSZpZD01ZjM1ZDVmYTI1Mzk4ZmFkY2U2MDNiN2ViNjUxYTYzZSZjaGVja2lwPXRydWUmc3RybV9sZW49MTU=
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0053/HLS/V0053-avc1_2000000=4.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=2a435cb180f20409c5acf63e183dde75&chunkHttps=true&tmid=V0053&tpbk=cb8PZe8mo2QlOYMI&rrt=1761380179&tmod=rfk&rsid=3e4adfc9-373f-4e46-b198-f0ac50241026&tuid=64aab6e62a&cdn=redfox-https&tdid=a26e6baa46172fd5481d6078a1080e1b&origin=anevia&tfa=f0-fc&tttl=1761466300
+
 
 
