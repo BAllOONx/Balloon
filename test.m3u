@@ -1,10 +1,10 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="SKY Sport" tvg-logo="https://api.makeitso.online/images/png/hd-pptv.png",30
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
+#EXTINF:-1 group-title="TEST" tvg-logo="https://dookeela2.live/uploads/1725896332.png",TNN
+#EXTVLCOPT:http-referrer=https://www.dookeela2.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://la4.youllneverwalkalone.online:9309/v5/IEuIggU-cHrsTPW45vezkQ/1761377477/7ab76dd5890b58699442fbd398f3ed99/P7apMYy6N3HaqgLtXw76mQ/1761388157/live/dx-origin/hd-pptv_720/chunks.m3u8
+https://dklxais.online/dookeela/tnn/chunks.m3u8?nimblesessionid=73495932&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyNSwgNzozNzowNyBBTSZoYXNoX3ZhbHVlPVVLY05qZ2JHSWRzTUEvSWNxYWR2Y2c9PSZ2YWxpZG1pbnV0ZXM9MSZpZD01ZjM1ZDVmYTI1Mzk4ZmFkY2U2MDNiN2ViNjUxYTYzZSZjaGVja2lwPXRydWUmc3RybV9sZW49MTI=
 
 
 
