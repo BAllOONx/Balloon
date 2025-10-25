@@ -1,8 +1,9 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="SKY Sport" tvg-logo="https://api.makeitso.online/images/png/nz-skysport1.png",SKY 1
+#EXTINF:-1 group-title="SKY Sport" tvg-logo="https://api.makeitso.online/images/png/uk-skysports-epl.png",SKY Sport EPL
 #EXTVLCOPT:http-referrer=https://embed.makeitso.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://la5.youllneverwalkalone.online:9311/v5/6KPeBe7teRME3LnTS5vl8w/1761374963/7ab76dd5890b58699442fbd398f3ed99/b_269YYGfhHHXw5Qz3lo3g/1761385643/live/lx-origin/th-monomax06bkp_720/chunks.m3u8
+https://e110.youllneverwalkalone.online/v5/vz_wV4pCfcpdzr4eeSOgmA/1761278691/d592a4fb3aa6371995d10f439b314eff/Ns-ob6sLrGytSaJHWDXgAA/1761289371/live/lx-origin/uk-skysports-epl_720/chunks.m3u8
+
 
