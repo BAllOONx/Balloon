@@ -51,9 +51,11 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_320.png",PPTV HD
-#EXTVLCOPT:http-referrer=https://embed.ais-cloud.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F10%2F02ef58a7-a848-485c-abfa-dd3d7a74a8b2.png&w=100&h=75",AmarinTV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -90,17 +92,20 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/22/22.mpd
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",TNN
-#EXTVLCOPT:http-referrer=https://www.dookeela2.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://dklxais.online/dookeela/tnn/chunks.m3u8?nimblesessionid=73495932&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyNSwgNzozNzowNyBBTSZoYXNoX3ZhbHVlPVVLY05qZ2JHSWRzTUEvSWNxYWR2Y2c9PSZ2YWxpZG1pbnV0ZXM9MSZpZD01ZjM1ZDVmYTI1Mzk4ZmFkY2U2MDNiN2ViNjUxYTYzZSZjaGVja2lwPXRydWUmc3RybV9sZW49MTI=
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ebedc957e934d2b9023e4e60b97af73:7bcb4363df74457bbafedec1a864e6b6
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/16/16.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/07/08/e341b740-c0e5-11ea-90d9-278915d663f4_320.png",ThaiPBS
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://58-64-60-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",NBT
-#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://p0.cdn.vet/live/ch11/i/ch11i.m3u8?sid=bjeZGRhNmY5NjU0NjAxZTA0NWEzYgNWNlYTA2NTYxZWQ4YWNi
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca20a93cf8e3421dafbd5bdb1990081b:86ae86a7391c481ea93eecdb740f0a14
 
 
 
@@ -438,6 +443,7 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL007/HLS/
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL008/HLS/TL008.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=08afa076d6eeec870c46919a18a6738f&chunkHttps=true&tmid=V0048&tpbk=a4BkOaHCE2Fm9EN9&rrt=1755819578&tmod=rfk&rsid=197e7e75-d0d9-4a2f-a949-03637aef7b02&tuid=y0ngRp8wwo03emcFQkGq3YebuVrdgXRHHWRKX%2FvFZhNZUUi85%2BT09Wa01ddbk1LAK9QTLYxWNqIVgz3ZzybbJRY9TcqKK0xen7ulLJP9984AU%3D&cdn=redfox-https&tdid=31903fcff2fbf0e7430c5503db0itahl&origin=anevia&tfa=f0-fc&tttl=1755905949 
+
 
 
 
