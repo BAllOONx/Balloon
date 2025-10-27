@@ -1,10 +1,11 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax01.png",Monomax 2
+#EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/hd-tsport1.png",True Sport 1
 #EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://brisket-arise.youllneverwalkalone.online/v5/PgJ0ohvL4Gy-ABin_Bvy9Q/1761583442/b4c77e9c6d05121622c83cabbc32a5b1/LzWV7cab0uN74fE6E_54nQ/1761594122/live/vx-origin/hd-tsport1_720/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://brisket-arise.youllneverwalkalone.online/v5/Lhz3LeZtb_M1Hv5ODY2n8w/1761606954/69d631be2910aff73c9b0c89531a9085/jASEd50krVDZp3FjE677Rg/1761617634/live/vx-origin/hd-tsport1_720/chunks.m3u8
+
 
 
 
