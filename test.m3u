@@ -1,10 +1,11 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="TEST" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",36
+#EXTINF:-1 group-title="TEST" tvg-logo="https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_320.png",36
 #EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://brisket-arise.youllneverwalkalone.online/v5/bWQyciZIPzeHo6-dL7o1Iw/1761525102/70c6823fe6114aa714e14fb0deafe044/TzH5J0ossNshr7cUuAeztA/1761535782/live/dx-origin/hd-pptv_720/chunks.m3u8
+
 
 
 
