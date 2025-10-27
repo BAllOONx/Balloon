@@ -1,12 +1,10 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_320.png",PPTV HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
-https://la5.youllneverwalkalone.online:9308/v5/VDGw5OcHZrG_GTKWOx8-mg/1761563730/e5f422cdfb0a0f16448e9f8d4a0370de/KnKlKDaPFM4YqRAdE_f6-w/1761574410/live/vx-origin/hd-tsport1_720/chunks.m3u8
+#EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax01.png",Monomax 1
+#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://brisket-arise.youllneverwalkalone.online/v5/G6KKDZ-6uYZpo9NicliQCQ/1761581122/b4c77e9c6d05121622c83cabbc32a5b1/oEI_gHuKxgJ0T36ZNHaCew/1761591802/live/lx-origin/th-monomax01_720/chunks.m3u8
 
 
 
