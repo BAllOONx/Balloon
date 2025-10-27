@@ -1,12 +1,12 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-chno="36" tvg-id="PPTVHD36.th" tvg-name="PPTV HD" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png" group-title="ช่อง3BBTV", PPTV HD
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_320.png",PPTV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
+https://la5.youllneverwalkalone.online:9311/v5/pDJKoDN23aA5pAVjFB4kMw/1761563358/e5f422cdfb0a0f16448e9f8d4a0370de/lOztERCzTmqEgrTin48tyw/1761574038/live/dx-origin/hd-pptv_720/chunks.m3u8
 
 
 
