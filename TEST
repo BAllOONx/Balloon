@@ -1,24 +1,4 @@
-#EXTINF:-1 tvg-id="Monomax 1" group-title="LIVE SOD" tvg-logo="https://img2.pic.in.th/pic/13458.md.jpg",-
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomaxs3-1.m3u8
-
-#EXTINF:-1 tvg-id="Monomax 2" group-title="LIVE SOD" tvg-logo="https://img5.pic.in.th/file/secure-sv1/13456dcf1644cfa7dd502.md.jpg",-
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax2.m3u8
-
-#EXTINF:-1 tvg-id="Monomax 3" group-title="LIVE SOD"  tvg-logo="https://img2.pic.in.th/pic/13454.md.jpg",-
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax3.m3u8
-
-#EXTINF:-1 tvg-id="Monomax 4" group-title="LIVE SOD"  tvg-logo="https://img5.pic.in.th/file/secure-sv1/13450.md.jpg",-
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax4.m3u8
-
-#EXTINF:-1 tvg-id="Monomax 5" group-title="LIVE SOD"  tvg-logo="https://img2.pic.in.th/pic/13446.md.jpg",-
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax5.m3u8
-
-#EXTINF:-1 tvg-id="Monomax 6" group-title="LIVE SOD"  tvg-logo="https://img5.pic.in.th/file/secure-sv1/13452.md.jpg",-
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax6.m3u8
-
-#EXTINF:-1 tvg-id="Monomax 7" group-title="LIVE SOD"  tvg-logo="https://img2.pic.in.th/pic/13448.md.jpg",-
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax7.m3u8
-
-#EXTINF:-1 tvg-id="Monomax 8" group-title="LIVE SOD"  tvg-logo="https://api-soccer.thai-play.com/images/tv/siam8.png",-
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax8.m3u8
-
+#EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax01.png",Monomax 1
+#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+https://brisket-arise.youllneverwalkalone.online/v5/QHYib1IzkFkQbGR1twCwiA/1761634788/123cc72a6f60a5d838f176d0a40f5111/lgwdd_G9RYCAC5DoRJLf5g/1761645468/live/lx-origin/th-monomax01_720/chunks.m3u8
