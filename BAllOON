@@ -125,16 +125,18 @@ https://raw.githubusercontent.com/tvmanthai/tvman/refs/heads/main/m3u8/fast-mono
 
 #EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax02.png",Monomax 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/monomax-2/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://www.livedoomovies.com/
+#http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186562&extension=ts
+https://www.livedoomovies.com/Monomax_PL_2HD/chunklist.m3u8
 https://raw.githubusercontent.com/tvmanthai/tvman/refs/heads/main/m3u8/fast-monomax2.m3u8
 https://raw.githubusercontent.com/cattviptv2605/m3u8/refs/heads/main/MONOMAX2.m3u8
 https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/MonomaxHD2.m3u8
 
-
 #EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax03.png",Monomax 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-referrer=https://www.livedoomovies.com/
+#http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186570&extension=ts
+https://www.livedoomovies.com/Monomax_PL_3HD/chunklist.m3u8
 https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/MonomaxHD3.m3u8
 https://raw.githubusercontent.com/cattviptv2605/m3u8/refs/heads/main/MONOMAX3.m3u8
 https://raw.githubusercontent.com/tvmanthai/tvman/refs/heads/main/m3u8/fast-monomax3.m3u8
@@ -142,7 +144,9 @@ https://raw.githubusercontent.com/tvmanthai/tvman/refs/heads/main/m3u8/fast-mono
 
 #EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax04.png",Monomax 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-referrer=https://www.livedoomovies.com/
+#http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186580&extension=ts
+https://www.livedoomovies.com/Monomax_PL_4HD/chunklist.m3u8
 https://raw.githubusercontent.com/tvmanthai/tvman/refs/heads/main/m3u8/fast-monomax4.m3u8
 https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/MonomaxHD4.m3u8
 https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/Monomax4.m3u8
@@ -150,7 +154,9 @@ https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/Monomax4
 
 #EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax05.png",Monomax 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-referrer=https://www.livedoomovies.com/
+#http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186582&extension=ts
+https://www.livedoomovies.com/Monomax_PL_5HD/chunklist.m3u8
 https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/MonomaxHD5.m3u8
 https://raw.githubusercontent.com/cattviptv2605/m3u8/refs/heads/main/MONOMAX5.m3u8
 https://raw.githubusercontent.com/tvmanthai/tvman/refs/heads/main/m3u8/fast-monomax5.m3u8
@@ -232,6 +238,7 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL007/HLS/
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL008/HLS/TL008.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=08afa076d6eeec870c46919a18a6738f&chunkHttps=true&tmid=V0048&tpbk=a4BkOaHCE2Fm9EN9&rrt=1755819578&tmod=rfk&rsid=197e7e75-d0d9-4a2f-a949-03637aef7b02&tuid=y0ngRp8wwo03emcFQkGq3YebuVrdgXRHHWRKX%2FvFZhNZUUi85%2BT09Wa01ddbk1LAK9QTLYxWNqIVgz3ZzybbJRY9TcqKK0xen7ulLJP9984AU%3D&cdn=redfox-https&tdid=31903fcff2fbf0e7430c5503db0itahl&origin=anevia&tfa=f0-fc&tttl=1755905949 
+
 
 
 
