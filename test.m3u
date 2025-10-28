@@ -1,19 +1,14 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/hd-tsport1.png",True Sport 1
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://brisket-arise.youllneverwalkalone.online/v5/Lhz3LeZtb_M1Hv5ODY2n8w/1761606954/69d631be2910aff73c9b0c89531a9085/jASEd50krVDZp3FjE677Rg/1761617634/live/vx-origin/hd-tsport1_720/chunks.m3u8
-
-
 
 #EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax01.png",Monomax 1
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomaxs3-1.m3u8
-https://github.com/tvmanthai/tvman/raw/refs/heads/main/m3u8/fast-monomax1.m3u8
-https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX1.m3u8
+#EXTVLCOPT:http-referrer=
+https://raw.githubusercontent.com/cattviptv2605/m3u8/refs/heads/main/MONOMAX1.m3u8
+https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/MonomaxHD1.m3u8
+https://raw.githubusercontent.com/tvmanthai/tvman/refs/heads/main/m3u8/fast-monomax1.m3u8
+
 
 #EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax01.png",Monomax 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -21,6 +16,7 @@ https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX1.m3u8
 https://cdn1.googlecdnforstreaming.live/live/monomax-2/chunks.m3u8
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/Xmonomax2.m3u8
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomaxs3-2.m3u8
+
 
 
 
