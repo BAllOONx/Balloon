@@ -110,294 +110,82 @@ http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/2/2.mpd
 
 
+
 ### MONOMAX ###
 
 
 
 #EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax01.png",Monomax 1
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://la5.youllneverwalkalone.online:9308/v5/c8aqTf8Zghn87i1G32km-Q/1761615084/5ae77450ab228f797959335abe7079d6/m4UzjKrmHiMQs-ovQlA1HQ/1761625764/live/lx-origin/th-monomax01_720/chunks.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://raw.githubusercontent.com/cattviptv2605/m3u8/refs/heads/main/MONOMAX1.m3u8
+https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/MonomaxHD1.m3u8
+https://raw.githubusercontent.com/tvmanthai/tvman/refs/heads/main/m3u8/fast-monomax1.m3u8
 
-#EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax01bkp.png",Monomax 1-bk
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://la5.youllneverwalkalone.online:9308/v5/3ZD3ib4CqAYNR-_Sj0s4iw/1761623564/5ae77450ab228f797959335abe7079d6/6SkPFQznvfxzSO4eOTWtAw/1761634244/live/lx-origin/th-monomax01bkp_720/chunks.m3u8
 
 #EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax02.png",Monomax 2
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://la5.youllneverwalkalone.online:9311/v5/B38mkuK4x3ReF4qVCJullg/1761624318/5ae77450ab228f797959335abe7079d6/d3oDMGWZchh3lQhYJ0gPhw/1761634998/live/lx-origin/th-monomax02_720/chunks.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/monomax-2/chunks.m3u8
+https://raw.githubusercontent.com/tvmanthai/tvman/refs/heads/main/m3u8/fast-monomax2.m3u8
+https://raw.githubusercontent.com/cattviptv2605/m3u8/refs/heads/main/MONOMAX2.m3u8
+https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/MonomaxHD2.m3u8
 
-#EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax02bkp.png",Monomax 2-bk
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://la5.youllneverwalkalone.online:9312/v5/6AM21-3ndsOFRpQbL1YMYQ/1761624367/5ae77450ab228f797959335abe7079d6/AgicIh2iBE8Z8noIWbkCnw/1761635047/live/lx-origin/th-monomax02bkp_720/chunks.m3u8
 
 #EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax03.png",Monomax 3
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://la5.youllneverwalkalone.online:9311/v5/LaLzf90OZuGwcJd5hdhGEA/1761625237/5ae77450ab228f797959335abe7079d6/d7E_5PYt8WqGxg71tihytA/1761635917/live/lx-origin/th-monomax03_720/chunks.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/MonomaxHD3.m3u8
+https://raw.githubusercontent.com/cattviptv2605/m3u8/refs/heads/main/MONOMAX3.m3u8
+https://raw.githubusercontent.com/tvmanthai/tvman/refs/heads/main/m3u8/fast-monomax3.m3u8
 
-#EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax03bkp.png",Monomax 3-bk
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://la5.youllneverwalkalone.online:9309/v5/nPhXzvLcHUkEDTeGQVJj6w/1761625277/5ae77450ab228f797959335abe7079d6/9fgjAJvDu2meFGS56MjHyQ/1761635957/live/lx-origin/th-monomax03bkp_720/chunks.m3u8
 
 #EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax04.png",Monomax 4
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://la5.youllneverwalkalone.online:9312/v5/XDoSnNfQ3-K_x00RIVR7nA/1761625304/5ae77450ab228f797959335abe7079d6/TXNXl5oKtlK_5M-nXzrowQ/1761635984/live/lx-origin/th-monomax04_720/chunks.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://raw.githubusercontent.com/tvmanthai/tvman/refs/heads/main/m3u8/fast-monomax4.m3u8
+https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/MonomaxHD4.m3u8
+https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/Monomax4.m3u8
 
-#EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax04bkp.png",Monomax 4-bk
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://la5.youllneverwalkalone.online:9309/v5/M_WkPBij_5Y6pt1BRUL9oA/1761625334/5ae77450ab228f797959335abe7079d6/gjdnvzwuJBbd0u9b-h8pzA/1761636014/live/lx-origin/th-monomax04bkp_720/chunks.m3u8
 
 #EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax05.png",Monomax 5
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://la5.youllneverwalkalone.online:9309/v5/rGoTQHECoTc6hYuB_V5cYg/1761625360/a135ff5b98d35f640d19bfb586e08775/x970GZTqiosjLNxYhgNavQ/1761636040/live/lx-origin/th-monomax05_720/chunks.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/MonomaxHD5.m3u8
+https://raw.githubusercontent.com/cattviptv2605/m3u8/refs/heads/main/MONOMAX5.m3u8
+https://raw.githubusercontent.com/tvmanthai/tvman/refs/heads/main/m3u8/fast-monomax5.m3u8
 
-#EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax05bkp.png",Monomax 5-bk
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://la5.youllneverwalkalone.online:9312/v5/Fotgu2S1hngSdgR_4BD0Gw/1761625384/5ae77450ab228f797959335abe7079d6/bcnjUk3LhSt7lx9DzcxoMQ/1761636064/live/lx-origin/th-monomax05bkp_720/chunks.m3u8
 
 #EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax06.png",Monomax 6
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://e110.youllneverwalkalone.online/v5/Cb2xfYi5N_uZXnfrFq1Giw/1760841147/5197647dc6fc71ea3d5de567c0985a00/GKhM9Ukd9rAk0sG1b5ImDQ/1760851827/live/lx-origin/th-monomax06_720/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://raw.githubusercontent.com/cattviptv2605/m3u8/refs/heads/main/MONOMAX5.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/Xmonomax6.m3u8
+https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/Monomax6.m3u8
 
-#EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax06bkp.png",Monomax 6-bk
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://la5.youllneverwalkalone.online:9309/v5/np02miiB-O5zGqwdtMpWsQ/1761625405/a135ff5b98d35f640d19bfb586e08775/62Du4JJTCUq2Nr-8P38taA/1761636085/live/lx-origin/th-monomax06bkp_720/chunks.m3u8
 
 #EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax07.png",Monomax 7
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://la5.youllneverwalkalone.online:9311/v5/2SzcYOKS05NbGm2Dg6Yvaw/1761625538/5ae77450ab228f797959335abe7079d6/wRaogGgfbltsbnTSfp5mhg/1761636218/live/lx-origin/th-monomax07_720/chunks.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/Xmonomax7.m3u8
+https://raw.githubusercontent.com/cattviptv2605/m3u8/refs/heads/main/MONOMAX7.m3u8
+https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/MonomaxHD7.m3u8
 
-#EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax07bkp.png",Monomax 7-bk
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://la5.youllneverwalkalone.online:9308/v5/qrMWjDG6nE5SdwTBzpaOCA/1761625563/a135ff5b98d35f640d19bfb586e08775/DQtWMQLCVo4E1OJ5ZI2skA/1761636243/live/lx-origin/th-monomax07bkp_720/chunks.m3u8
 
 #EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax08.png",Monomax 8
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://la5.youllneverwalkalone.online:9309/v5/Z5m8qsg4BVoti5iLMJSD2w/1761625598/a135ff5b98d35f640d19bfb586e08775/ZuZ8Ajo2CdKznI2lHjCM2g/1761636278/live/lx-origin/th-monomax08_720/chunks.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://raw.githubusercontent.com/cattviptv2605/m3u8/refs/heads/main/MONOMAX8.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/Xmonomax8.m3u8
+https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/MonomaxHD8.m3u8
 
-#EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax08bkp.png",Monomax 8-bk
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://la5.youllneverwalkalone.online:9309/v5/y4xTaz-mnWS2Wr8LUskMfA/1761625625/5ae77450ab228f797959335abe7079d6/IzNUzNqR5AATqrhz5xBZmA/1761636305/live/lx-origin/th-monomax08bkp_720/chunks.m3u8
 
 #EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax09.png",Monomax 9
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://la5.youllneverwalkalone.online:9309/v5/LdTZ7HGOVr-5spWlXLyePw/1761625654/a135ff5b98d35f640d19bfb586e08775/_YUyKLa8HwdeB_OPXNgvMg/1761636334/live/lx-origin/th-monomax09_720/chunks.m3u8
-
-#EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax09bkp.png",Monomax 9-bk
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://la5.youllneverwalkalone.online:9312/v5/PsIWZEKEzq3iVqdvSgco1g/1761625685/5ae77450ab228f797959335abe7079d6/vj7nuMDOHQyfBOibsdJ3cA/1761636365/live/lx-origin/th-monomax09bkp_720/chunks.m3u8
-
-#EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax10.png",Monomax 10
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://la5.youllneverwalkalone.online:9311/v5/byZ9hueVKYguqZ88NrNkGg/1761625714/a135ff5b98d35f640d19bfb586e08775/KuQUrY3bwCCEVBcpgjDcXA/1761636394/live/lx-origin/th-monomax10_720/chunks.m3u8
-
-#EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax10bkp.png",Monomax 10-bk
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://la5.youllneverwalkalone.online:9311/v5/ezGzE0BeN4b9lAw0-WFxIg/1761625742/5ae77450ab228f797959335abe7079d6/8AtYc0lGOMfzk1wgGR9Ymg/1761636422/live/lx-origin/th-monomax10bkp_720/chunks.m3u8
-
-#EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax11.png",Monomax 11
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://la5.youllneverwalkalone.online:9311/v5/VAnRVx4LHQSAmLPtkB-Omw/1761625766/a135ff5b98d35f640d19bfb586e08775/rxo-rC0RlP9nOQV-LM8SLQ/1761636446/live/lx-origin/th-monomax11_720/chunks.m3u8
-
-
-
-
-###BEIN SPORT###
-
-
-
-
-#EXTINF:-1 group-title="Bein Sport" tvg-logo="https://api.makeitso.online/images/png/hd-bein1.png",Bein Sport 1
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://la5.youllneverwalkalone.online:9308/v5/4XfCJSyBDz3HO33Zi4raUA/1761625793/5ae77450ab228f797959335abe7079d6/ftEHLUyXRa2B3wlYOkxGZg/1761636473/live/dx-origin/epl-bein1_720/chunks.m3u8
-
-#EXTINF:-1 group-title="Bein Sport" tvg-logo="https://api.makeitso.online/images/png/hd-bein2.png",Bein Sport 2
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://la5.youllneverwalkalone.online:9311/v5/5PaIOKmiIBxSxL2tVb9b5w/1761625863/5ae77450ab228f797959335abe7079d6/F6dH12L5TuPwA39Blw4HTA/1761636543/live/vx-origin/th-bein2_720/chunks.m3u8
-
-#EXTINF:-1 group-title="Bein Sport" tvg-logo="https://api.makeitso.online/images/png/hd-bein3.png",Bein Sport 3
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://la5.youllneverwalkalone.online:9309/v5/19qo03rzAvZsL_vCEcAhqg/1761625891/a135ff5b98d35f640d19bfb586e08775/AvsHsPyfy3td0zZ4zIcCkw/1761636571/live/vx-origin/epl-bein3_720/chunks.m3u8
-
-#EXTINF:-1 group-title="Bein Sport" tvg-logo="https://api.makeitso.online/images/png/hd-bein4.png",Bein Sport 4
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://e110.youllneverwalkalone.online/v5/xkHPBEwtociPA2VFw8PCCA/1761271908/d592a4fb3aa6371995d10f439b314eff/2Ijz83ppjlyEjEee-KRYmw/1761282588/live/vx-origin/hd-bein4_720/chunks.m3u8
-
-#EXTINF:-1 group-title="Bein Sport" tvg-logo="https://api.makeitso.online/images/png/hd-bein5.png",Bein Sport 5
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://e110.youllneverwalkalone.online/v5/Lu8OgrOhRZ0DZb6DtXDExg/1761271981/d592a4fb3aa6371995d10f439b314eff/2w68PPB41cSIW-sgqAb7Uw/1761282661/live/vx-origin/hd-bein5_720/chunks.m3u8
-
-#EXTINF:-1 group-title="Bein Sport" tvg-logo="https://api.makeitso.online/images/png/hd-bein6.png",Bein Sport 6
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://e110.youllneverwalkalone.online/v5/Vgf91ypdZeQFXtssleosPw/1761272050/d592a4fb3aa6371995d10f439b314eff/42hxK7JpVD2lfP_5qsdJ_g/1761282730/live/vx-origin/hd-bein6_720/chunks.m3u8
-
-#EXTINF:-1 group-title="Bein Sport" tvg-logo="https://api.makeitso.online/images/png/hd-bein7.png",Bein Sport 7
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://e110.youllneverwalkalone.online/v5/AwF0lkQ2u7uEtJ0qzfw-jQ/1761273825/b451afa6268eaf4679d879887116fa87/p3H2CgRXMnl3r68MS2kpOA/1761284505/live/vx-origin/hd-bein7_720/chunks.m3u8
-
-#EXTINF:-1 group-title="Bein Sport" tvg-logo="https://api.makeitso.online/images/png/hd-bein8.png",Bein Sport 8
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://e110.youllneverwalkalone.online/v5/YZVEpKCEIlIrV7tFBFlrhw/1761273929/d592a4fb3aa6371995d10f439b314eff/UdemnH3e024V2y9T0IY9Eg/1761284609/live/vx-origin/hd-bein8_720/chunks.m3u8
-
-#EXTINF:-1 group-title="Bein Sport" tvg-logo="https://api.makeitso.online/images/png/hd-bein9.png",Bein Sport 9
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://e110.youllneverwalkalone.online/v5/4ejrIkFPAXjNm05CHkYqww/1761273983/b451afa6268eaf4679d879887116fa87/7N6P8Ac2_WwrFZSD7MqfxA/1761284663/live/vx-origin/hd-bein9_720/chunks.m3u8
-
-#EXTINF:-1 group-title="Bein Sport" tvg-logo="https://api.makeitso.online/images/png/hd-bein10.png",Bein Sport 10
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://e110.youllneverwalkalone.online/v5/gFPu-ecA2dOYFlxr00q0mA/1761274028/d592a4fb3aa6371995d10f439b314eff/zhk4fntSCD2oq0UplY37wQ/1761284708/live/vx-origin/hd-bein10_720/chunks.m3u8
-
-#EXTINF:-1 group-title="Bein Sport" tvg-logo="https://api.makeitso.online/images/png/hd-bein11.png",Bein Sport 11
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://e110.youllneverwalkalone.online/v5/Zly3oor-ZEMqzItZuhxB0Q/1761274271/d592a4fb3aa6371995d10f439b314eff/3VlQR8Rn9cD3ForJLmc9BQ/1761284951/live/vx-origin/hd-bein11_720/chunks.m3u8
-
-#EXTINF:-1 group-title="Bein Sport" tvg-logo="https://api.makeitso.online/images/png/hd-bein12.png",Bein Sport 12
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://e110.youllneverwalkalone.online/v5/wKBP0klnQMLAO1YKsKrVtg/1761274193/d592a4fb3aa6371995d10f439b314eff/reSLyOkg3myAzCXgFZrg-g/1761284873/live/vx-origin/hd-bein12_720/chunks.m3u8
-
-
-
-### HUB PREMIER ###
-
-
-
-#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="https://api.makeitso.online/images/png/sg-hubpremier01.png",Hub Premier 1
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://e110.youllneverwalkalone.online/v5/ecg3oKB2kTuMfcnAFOmsZA/1761275971/b451afa6268eaf4679d879887116fa87/2JcWLRwhX-rHDPWhQSvgTA/1761286651/live/vx-origin/sg-hubpremier01_480/chunks.m3u8
-
-#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="https://api.makeitso.online/images/png/sg-hubpremier02.png",Hub Premier 2
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://e110.youllneverwalkalone.online/v5/FYebzIiRwz-aGMT43Qns6Q/1761276166/d592a4fb3aa6371995d10f439b314eff/SpnryA-sbOyiBDvvpwkuMw/1761286846/live/vx-origin/sg-hubpremier02_720/chunks.m3u8
-
-#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="https://api.makeitso.online/images/png/sg-hubpremier03.png",Hub Premier 3
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://e110.youllneverwalkalone.online/v5/76w7EVk4CGHn283NldFQ0w/1761276197/b451afa6268eaf4679d879887116fa87/84dq8DwG4FPcUEEY80egvQ/1761286877/live/vx-origin/sg-hubpremier03_720/chunks.m3u8
-
-#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="https://api.makeitso.online/images/png/sg-hubpremier04.png",Hub Premier 4
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://e110.youllneverwalkalone.online/v5/_RXB7zMwrzSNqyE8ajfuQQ/1761276229/d592a4fb3aa6371995d10f439b314eff/ObjWKnb_cgcOFh6os7hxcw/1761286909/live/vx-origin/sg-hubpremier04_720/chunks.m3u8
-
-#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="https://api.makeitso.online/images/png/sg-hubpremier05.png",Hub Premier 5
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://e110.youllneverwalkalone.online/v5/UCML1nJd6j-ZLGyf6tdz5Q/1761276289/d592a4fb3aa6371995d10f439b314eff/2qBEx4lsx0Ch8hyfWVoigg/1761286969/live/vx-origin/sg-hubpremier05_720/chunks.m3u8
-
-
-
-### ASTRO ###
-
-
-
-#EXTINF:-1 group-title="ASTRO" tvg-logo="https://api.makeitso.online/images/png/my-astro-epl1.png",Premier League 1
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://e110.youllneverwalkalone.online/v5/eGxuG5tjK1jveXY1mMrWBA/1761275683/d592a4fb3aa6371995d10f439b314eff/7WJW9b5bFCL0ogpNNa4sBQ/1761286363/live/vx-origin/my-astro-epl1_720/chunks.m3u8
-
-#EXTINF:-1 group-title="ASTRO" tvg-logo="https://api.makeitso.online/images/png/my-astro-epl2.png",Premier League 2
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://e110.youllneverwalkalone.online/v5/PeKkNoYSzVvjNtpgEeURTw/1761275829/b451afa6268eaf4679d879887116fa87/gZnN4WiE_hoho4EUGQKjvg/1761286509/live/vx-origin/my-astro-epl2_720/chunks.m3u8
-
-#EXTINF:-1 group-title="ASTRO" tvg-logo="https://api.makeitso.online/images/png/my-astro-epl3.png",Premier League 3
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://e110.youllneverwalkalone.online/v5/000I_FHIJyP8qduKYAiiXA/1761277108/b451afa6268eaf4679d879887116fa87/a2a6FKwLa7ZfMDcCsEyWHw/1761287788/live/vx-origin/my-astro-grandstand_720/chunks.m3u8
-
-
-### SKY Sport ###
-
-
-
-#EXTINF:-1 group-title="SKY Sport" tvg-logo="https://api.makeitso.online/images/png/nz-skysport1.png",SKY Sport 1
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://la5.youllneverwalkalone.online:9311/v5/zqgDp3l7QFJw_Eduh-YpbA/1761626023/5ae77450ab228f797959335abe7079d6/-yQpVtDJtYCf34jO4afURg/1761636703/live/vx-origin/nz-skysport1_720/chunks.m3u8
-
-#EXTINF:-1 group-title="SKY Sport" tvg-logo="https://api.makeitso.online/images/png/nz-skysport2.png",SKY Sport 2
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://la5.youllneverwalkalone.online:9309/v5/IFeybtDstZuE-70IwwtVOw/1761626073/a135ff5b98d35f640d19bfb586e08775/wcNKiGyivwj78jIh5q750Q/1761636753/live/vx-origin/nz-skysport2_720/chunks.m3u8
-
-#EXTINF:-1 group-title="SKY Sport" tvg-logo="https://api.makeitso.online/images/png/nz-skysport3.png",SKY Sport 3
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://la5.youllneverwalkalone.online:9309/v5/kpv-8wea3MEIXdWRlB8-LQ/1761626098/a135ff5b98d35f640d19bfb586e08775/NGfW_mQNsW0sqUQo58ACuw/1761636778/live/vx-origin/nz-skysport3_720/chunks.m3u8
-
-#EXTINF:-1 group-title="SKY Sport" tvg-logo="https://api.makeitso.online/images/png/nz-skysport4.png",SKY Sport 4
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://e110.youllneverwalkalone.online/v5/6B3zppX929n6Hw2EN-yVfw/1761215725/7c770e3ae103f86297b1265f0fea36b4/Zetyrt246FE-DGirPSRjVQ/1761226405/live/vx-origin/nz-skysport4_720/chunks.m3u8
-
-#EXTINF:-1 group-title="SKY Sport" tvg-logo="https://api.makeitso.online/images/png/nz-skysport5.png",SKY Sport 5
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://la5.youllneverwalkalone.online:9308/v5/thGEz_x9GhBFECJbL1m9NQ/1761626129/5ae77450ab228f797959335abe7079d6/CNU1jaqd6Jh6Mh_U20gO3Q/1761636809/live/vx-origin/nz-skysport5_720/chunks.m3u8
-
-#EXTINF:-1 group-title="SKY Sport" tvg-logo="https://api.makeitso.online/images/png/nz-skysport6.png",SKY Sport 6
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://la5.youllneverwalkalone.online:9312/v5/9G3I4XvVVnWsSaA3Od8tDQ/1761626154/a135ff5b98d35f640d19bfb586e08775/4CHzi4GLs6rMTOSMnoWl8A/1761636834/live/vx-origin/nz-skysport6_720/chunks.m3u8
-
-#EXTINF:-1 group-title="SKY Sport" tvg-logo="https://api.makeitso.online/images/png/nz-skysport7.png",SKY Sport 7
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://e110.youllneverwalkalone.online/v5/LdpbwiEzCKXhAVTrkQrWJQ/1761265733/53e20cb16900c7007fdd6a79f8c34164/m_MgiLqLK_JpdLi3oQEQjw/1761276413/live/vx-origin/nz-skysport7_720/chunks.m3u8
-
-#EXTINF:-1 group-title="SKY Sport" tvg-logo="https://api.makeitso.online/images/png/nz-skysport8.png",SKY Sport 8
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://e110.youllneverwalkalone.online/v5/zsfcT-1sfKKUEsOr8vqlwA/1761216012/7c770e3ae103f86297b1265f0fea36b4/MPV3T9MexHr-s4L9ZPo3Cg/1761226692/live/vx-origin/nz-skysport8_720/chunks.m3u8
-
-#EXTINF:-1 group-title="SKY Sport" tvg-logo="https://api.makeitso.online/images/png/nz-skysport9.png",SKY Sport 9
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://e110.youllneverwalkalone.online/v5/pnh2LmScVTG2nDrDciHQDQ/1761265923/53e20cb16900c7007fdd6a79f8c34164/brUdJfPEv5HnBFRwQ4kJ-g/1761276603/live/vx-origin/nz-skysport9_720/chunks.m3u8
-
-#EXTINF:-1 group-title="SKY Sport" tvg-logo="https://api.makeitso.online/images/png/uk-skysports-epl.png",SKY Sport EPL
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://la5.youllneverwalkalone.online:9308/v5/4F5S6i_bNhDMuBNc8YJMfw/1761625938/5ae77450ab228f797959335abe7079d6/mxCYqqGv-QnN39vyqcjyxg/1761636618/live/lx-origin/uk-skysports-epl_720/chunks.m3u8
-
-#EXTINF:-1 group-title="SKY Sport" tvg-logo="https://api.makeitso.online/images/png/uk-skysports-mainevent.png",SKY Sport Main
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://la5.youllneverwalkalone.online:9308/v5/IektkCU1eam2J3ZzTmUQjA/1761625991/a135ff5b98d35f640d19bfb586e08775/EpjyybigDbasR9d6HNvsCg/1761636671/live/lx-origin/uk-skysports-mainevent_720/chunks.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/Xmonomax9.m3u8
+https://raw.githubusercontent.com/cattviptv2605/m3u8/refs/heads/main/MONOMAX9.m3u8
+https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/MonomaxHD9.m3u8
 
 
 
@@ -444,6 +232,7 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL007/HLS/
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL008/HLS/TL008.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=08afa076d6eeec870c46919a18a6738f&chunkHttps=true&tmid=V0048&tpbk=a4BkOaHCE2Fm9EN9&rrt=1755819578&tmod=rfk&rsid=197e7e75-d0d9-4a2f-a949-03637aef7b02&tuid=y0ngRp8wwo03emcFQkGq3YebuVrdgXRHHWRKX%2FvFZhNZUUi85%2BT09Wa01ddbk1LAK9QTLYxWNqIVgz3ZzybbJRY9TcqKK0xen7ulLJP9984AU%3D&cdn=redfox-https&tdid=31903fcff2fbf0e7430c5503db0itahl&origin=anevia&tfa=f0-fc&tttl=1755905949 
+
 
 
 
