@@ -13,7 +13,10 @@ https://brisket-arise.youllneverwalkalone.online/v5/Lhz3LeZtb_M1Hv5ODY2n8w/17616
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomaxs3-1.m3u8
 
-
+#EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax01.png",Monomax 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/monomax-2/chunks.m3u8
 
 
 
