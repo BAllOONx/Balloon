@@ -44,7 +44,6 @@ https://raw.githubusercontent.com/tvmanthai/tvman/refs/heads/main/m3u8/fast-mono
 
 
 #EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax06.png",Monomax 6
-#EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax05.png",Monomax 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
 https://raw.githubusercontent.com/cattviptv2605/m3u8/refs/heads/main/MONOMAX5.m3u8
@@ -52,7 +51,9 @@ https://raw.githubusercontent.com/cattviptv2605/m3u8/refs/heads/main/monomax6.m3
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/Xmonomax6.m3u8
 
 
-
+#EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax07.png",Monomax 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
 
 
 
